@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\4 task\4 task\bin\Debug\4 task.exe.config
+C:\Users\user\source\repos\4 task\4 task\bin\Debug\4 task.exe
+C:\Users\user\source\repos\4 task\4 task\bin\Debug\4 task.pdb
+C:\Users\user\source\repos\4 task\4 task\obj\Debug\4 task.csprojAssemblyReference.cache
+C:\Users\user\source\repos\4 task\4 task\obj\Debug\4 task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\4 task\4 task\obj\Debug\4 task.exe
+C:\Users\user\source\repos\4 task\4 task\obj\Debug\4 task.pdb
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\bin\Debug\4 task.exe.config
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\bin\Debug\4 task.exe
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\bin\Debug\4 task.pdb
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\obj\Debug\4 task.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\obj\Debug\4 task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\obj\Debug\4 task.exe
+C:\Users\user\source\repos\PP2\Новая папка\Week 1\task4\4 task\obj\Debug\4 task.pdb
