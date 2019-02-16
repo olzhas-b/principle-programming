@@ -5,3 +5,10 @@ C:\Users\user\source\repos\PP2\Новая папка\Week 1\task2\ConsoleApp4\bi
 C:\Users\user\source\repos\PP2\Новая папка\Week 1\task2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
 C:\Users\user\source\repos\PP2\Новая папка\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\Users\user\source\repos\PP2\Новая папка\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\user\source\repos\PP2\new\Week 1\task2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
